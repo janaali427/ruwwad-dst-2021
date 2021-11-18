@@ -8,5 +8,6 @@ for i in range (0,int(n)):
     grades.append(grade)
 for j in range(0,int(n)):
     print(names[j],"\t", grades[j])
-
+    
+print('hello world')
 
