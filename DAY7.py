@@ -6,7 +6,7 @@ elif 80>g>90:
 elif 70>g>80:
     print("ur grade is c")
 else:
-    print("incorrect input")
+    print("incorrect input");
 
 
 

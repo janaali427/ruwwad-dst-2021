@@ -6,3 +6,9 @@ while i<5:
     sum=sum+n
     i=i+2
 print(n)
+
+print('hello world');
+print('hello world');
+print('hello world');
+print('hello world');
+print('hello world');
